@@ -1,0 +1,3 @@
+{"timestamp":"2026-06-14T22:23:06.556Z","level":"INFO","message":"Fichier de données non trouvé, création d'un nouveau fichier","context":{"memoryUsage":23429088,"uptime":2.7602037}}
+{"timestamp":"2026-06-14T22:23:06.566Z","level":"SUCCESS","message":"Gestionnaire de données JSON initialisé","context":{"file":"data\\voice_channels.json","memoryUsage":23513264,"uptime":2.7675258}}
+{"timestamp":"2026-06-14T22:23:06.568Z","level":"SUCCESS","message":"VoiceChannelManager initialisé","context":{"dataFile":"data\\voice_channels.json","version":"2.0.0","memoryUsage":23529560,"uptime":2.7696575}}
